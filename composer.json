@@ -1,0 +1,14 @@
+{
+  "name": "zaugol/ftp-client",
+  "description": "A simple PHP FTP client class",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "zaugol\\FTPClient\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=5.6"
+  }
+}
